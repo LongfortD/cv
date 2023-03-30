@@ -1,0 +1,16 @@
+
+nav ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+main#corpdelapage{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+.largeur {
+    width:33%;
+}
